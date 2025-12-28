@@ -54,15 +54,6 @@ Atuo em projetos pessoais utilizando **Java + Spring Boot**.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=juliocesar-ia&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocesar-ia&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 Filosofia
 
 > "Código não se trata apenas de resolver problemas.

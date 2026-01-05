@@ -18,9 +18,6 @@ Atuo em projetos pessoais utilizando **Java + Spring Boot**.
   <a href="https://instagram.com/julio.devcom">
     <img src="https://img.shields.io/badge/Instagram-@JULIO.DEVCOM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@juliodevcom">
-    <img src="https://img.shields.io/badge/YouTube-%20JULIO%20DEV%20COM-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
 </p>
 
 ---

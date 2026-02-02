@@ -16,7 +16,7 @@ Atuo em projetos pessoais utilizando **Java + Spring Boot**.
     <img src="https://img.shields.io/badge/GitHub-JULIOCESARBATISTADELIMA-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/julio.devcom">
-    <img src="https://img.shields.io/badge/Instagram-@JULIO.DEVCOM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@JULLIO.DEV-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
